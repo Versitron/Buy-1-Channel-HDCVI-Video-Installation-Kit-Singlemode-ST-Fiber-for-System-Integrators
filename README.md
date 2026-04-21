@@ -4,7 +4,7 @@ The Versitron 1-Channel HDCVI Video Installation Kit (Singlemode, ST) is a high-
 
 <a href="https://www.versitron.com/products/hdcvitr1a05-high-definition-fiber-optic-video-hdcvi-ahd-hdtvi-installation-kit-4">Buy 1 channel HDCVI video installation kit singlemode for system integrators and CCTV deployments</a>  
 
-Built as part of Versitron’s VersiVision series, this kit supports professional-grade video transmission with digitally encoded signals, making it ideal for demanding environments such as industrial surveillance, telecom infrastructure, and distributed security networks. :contentReference[oaicite:0]{index=0}  
+Built as part of Versitron’s VersiVision series, this kit supports professional-grade video transmission with digitally encoded signals, making it ideal for demanding environments such as industrial surveillance, telecom infrastructure, and distributed security networks. 
 
 ---
 
@@ -17,7 +17,7 @@ Built as part of Versitron’s VersiVision series, this kit supports professiona
 - ST optical interface ensures secure and stable fiber connectivity  
 - Supports bi-directional data (RS-485) for PTZ camera control  
 
-Fiber-based video transmission systems eliminate signal loss and interference, making them ideal for mission-critical surveillance applications. :contentReference[oaicite:1]{index=1}  
+Fiber-based video transmission systems eliminate signal loss and interference, making them ideal for mission-critical surveillance applications. 
 
 ---
 
@@ -28,7 +28,7 @@ Fiber-based video transmission systems eliminate signal loss and interference, m
 - Power Supplies  
 - 100 meters of Singlemode Fiber Optic Cable  
 
-Versitron installation kits are delivered as complete solutions, simplifying deployment and reducing installation complexity for system integrators. :contentReference[oaicite:2]{index=2}  
+Versitron installation kits are delivered as complete solutions, simplifying deployment and reducing installation complexity for system integrators. 
 
 ---
 
@@ -49,7 +49,7 @@ Versitron installation kits are delivered as complete solutions, simplifying dep
 | Operating Temperature | -35°C to +65°C |
 | Reliability | >100,000 hours MTBF |
 
-These kits use digitally encoded, uncompressed transmission to ensure consistent high-quality video output across extended distances. :contentReference[oaicite:3]{index=3}  
+These kits use digitally encoded, uncompressed transmission to ensure consistent high-quality video output across extended distances. 
 
 ---
 
@@ -64,7 +64,7 @@ This HDCVI video fiber kit is ideal for:
 - Campus & Enterprise Security: Centralized monitoring across facilities  
 - Control Systems: Real-time video transmission with PTZ control  
 
-HDCVI over fiber solutions are widely used to extend camera signals beyond coax limitations while maintaining high-definition performance. :contentReference[oaicite:4]{index=4}  
+HDCVI over fiber solutions are widely used to extend camera signals beyond coax limitations while maintaining high-definition performance. 
 
 ---
 
@@ -78,7 +78,7 @@ Designed for system integrators working on:
 - Government and critical infrastructure projects  
 - Remote monitoring and control environments  
 
-Singlemode fiber enables extended transmission distances (often up to 30km), making it ideal for large-scale deployments. :contentReference[oaicite:5]{index=5}  
+Singlemode fiber enables extended transmission distances (often up to 30km), making it ideal for large-scale deployments. 
 
 ---
 
